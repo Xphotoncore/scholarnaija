@@ -1,0 +1,21 @@
+{
+  "name": "scholarnaija",
+  "version": "1.0.0",
+  "description": "Academic research hub for Nigerian university students",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "next": "^15.0.0",
+    "axios": "^1.6.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "eslint-config-next": "^15.0.0"
+  }
+}
